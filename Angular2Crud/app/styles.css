@@ -1,0 +1,17 @@
+﻿html {
+    overflow - y: scroll;
+    overflow - x: hidden;
+}
+
+main {
+    position: relative;
+    padding - top: 60 px;
+}
+
+h1 {
+    color: red;
+}
+
+h3 {
+    color: green;
+}
